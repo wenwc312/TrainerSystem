@@ -1,0 +1,92 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# JetBrains
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+.nuget/packages/
+
+# Publish / deployment
+PublishProfiles/
+*.Publish.xml
+*.pubxml.user
+_PublishedWebsites/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results / coverage
+TestResults/
+*.trx
+*.coverage
+coverage/
+*.coveragexml
+
+# Logs, temp
+*.log
+*.tlog
+*.tmp
+*.cache
+
+# MSBuild / VS generated
+*.sdf
+*.dbmdl
+*.opendb
+*.ide
+*.psess
+*.vsp
+
+# User secrets / local settings
+secrets.json
+appsettings*.json
+appsettings.Development.json
+.env
+.env.*
+
+# Certificates / keys
+*.pfx
+*.snk
+*.key
+*.pem
+id_rsa
+id_rsa.pub
+
+# Local database files
+# PokemonDB.db
+# *.db
+*.db-journal
+# *.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Node / package managers
+node_modules/
+bower_components/
+
+# Misc
+*.pdb
+*.cache
+*.bak
+*.orig
+*.swp
+
+# GitHub Actions local workflow files
+.github/workflows/*.local.yml
