@@ -22,7 +22,7 @@ namespace 訓練家管理系統.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace 訓練家管理系統.Properties {
         ///   傳回這個類別使用的快取的 ResourceManager 執行個體。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("訓練家管理系統.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace 訓練家管理系統.Properties {
         ///   使用這個強類型資源類別的資源查閱。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _001 {
+        public static System.Drawing.Bitmap _001 {
             get {
                 object obj = ResourceManager.GetObject("_001", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -73,7 +73,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _002 {
+        public static System.Drawing.Bitmap _002 {
             get {
                 object obj = ResourceManager.GetObject("_002", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -83,7 +83,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _003 {
+        public static System.Drawing.Bitmap _003 {
             get {
                 object obj = ResourceManager.GetObject("_003", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -93,7 +93,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _004 {
+        public static System.Drawing.Bitmap _004 {
             get {
                 object obj = ResourceManager.GetObject("_004", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -103,7 +103,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _005 {
+        public static System.Drawing.Bitmap _005 {
             get {
                 object obj = ResourceManager.GetObject("_005", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -113,7 +113,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _006 {
+        public static System.Drawing.Bitmap _006 {
             get {
                 object obj = ResourceManager.GetObject("_006", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -123,7 +123,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _007 {
+        public static System.Drawing.Bitmap _007 {
             get {
                 object obj = ResourceManager.GetObject("_007", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -133,7 +133,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _008 {
+        public static System.Drawing.Bitmap _008 {
             get {
                 object obj = ResourceManager.GetObject("_008", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -143,7 +143,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _009 {
+        public static System.Drawing.Bitmap _009 {
             get {
                 object obj = ResourceManager.GetObject("_009", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -153,7 +153,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _010 {
+        public static System.Drawing.Bitmap _010 {
             get {
                 object obj = ResourceManager.GetObject("_010", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -163,7 +163,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _011 {
+        public static System.Drawing.Bitmap _011 {
             get {
                 object obj = ResourceManager.GetObject("_011", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -173,7 +173,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _012 {
+        public static System.Drawing.Bitmap _012 {
             get {
                 object obj = ResourceManager.GetObject("_012", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -183,7 +183,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _013 {
+        public static System.Drawing.Bitmap _013 {
             get {
                 object obj = ResourceManager.GetObject("_013", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -193,7 +193,27 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _014 {
+        public static System.Drawing.Bitmap _0131 {
+            get {
+                object obj = ResourceManager.GetObject("0131", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
+        public static System.Drawing.Bitmap _0135 {
+            get {
+                object obj = ResourceManager.GetObject("0135", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
+        public static System.Drawing.Bitmap _014 {
             get {
                 object obj = ResourceManager.GetObject("_014", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -203,7 +223,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _015 {
+        public static System.Drawing.Bitmap _015 {
             get {
                 object obj = ResourceManager.GetObject("_015", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -213,7 +233,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _016 {
+        public static System.Drawing.Bitmap _016 {
             get {
                 object obj = ResourceManager.GetObject("_016", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -223,7 +243,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _017 {
+        public static System.Drawing.Bitmap _017 {
             get {
                 object obj = ResourceManager.GetObject("_017", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -233,7 +253,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _018 {
+        public static System.Drawing.Bitmap _018 {
             get {
                 object obj = ResourceManager.GetObject("_018", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -243,7 +263,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _019 {
+        public static System.Drawing.Bitmap _019 {
             get {
                 object obj = ResourceManager.GetObject("_019", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -253,7 +273,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _020 {
+        public static System.Drawing.Bitmap _020 {
             get {
                 object obj = ResourceManager.GetObject("_020", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -263,7 +283,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _021 {
+        public static System.Drawing.Bitmap _021 {
             get {
                 object obj = ResourceManager.GetObject("_021", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -273,7 +293,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _022 {
+        public static System.Drawing.Bitmap _022 {
             get {
                 object obj = ResourceManager.GetObject("_022", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -283,7 +303,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _023 {
+        public static System.Drawing.Bitmap _023 {
             get {
                 object obj = ResourceManager.GetObject("_023", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -293,7 +313,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _024 {
+        public static System.Drawing.Bitmap _024 {
             get {
                 object obj = ResourceManager.GetObject("_024", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -303,7 +323,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _025 {
+        public static System.Drawing.Bitmap _025 {
             get {
                 object obj = ResourceManager.GetObject("_025", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -313,7 +333,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _026 {
+        public static System.Drawing.Bitmap _026 {
             get {
                 object obj = ResourceManager.GetObject("_026", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -323,7 +343,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _027 {
+        public static System.Drawing.Bitmap _027 {
             get {
                 object obj = ResourceManager.GetObject("_027", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -333,7 +353,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _028 {
+        public static System.Drawing.Bitmap _028 {
             get {
                 object obj = ResourceManager.GetObject("_028", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -343,7 +363,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _029 {
+        public static System.Drawing.Bitmap _029 {
             get {
                 object obj = ResourceManager.GetObject("_029", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -353,7 +373,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _030 {
+        public static System.Drawing.Bitmap _030 {
             get {
                 object obj = ResourceManager.GetObject("_030", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -363,7 +383,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _031 {
+        public static System.Drawing.Bitmap _031 {
             get {
                 object obj = ResourceManager.GetObject("_031", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -373,7 +393,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _032 {
+        public static System.Drawing.Bitmap _032 {
             get {
                 object obj = ResourceManager.GetObject("_032", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -383,7 +403,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _033 {
+        public static System.Drawing.Bitmap _033 {
             get {
                 object obj = ResourceManager.GetObject("_033", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -393,7 +413,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _034 {
+        public static System.Drawing.Bitmap _034 {
             get {
                 object obj = ResourceManager.GetObject("_034", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -403,7 +423,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _035 {
+        public static System.Drawing.Bitmap _035 {
             get {
                 object obj = ResourceManager.GetObject("_035", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -413,7 +433,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _036 {
+        public static System.Drawing.Bitmap _036 {
             get {
                 object obj = ResourceManager.GetObject("_036", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -423,7 +443,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _037 {
+        public static System.Drawing.Bitmap _037 {
             get {
                 object obj = ResourceManager.GetObject("_037", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -433,7 +453,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _038 {
+        public static System.Drawing.Bitmap _038 {
             get {
                 object obj = ResourceManager.GetObject("_038", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -443,7 +463,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _039 {
+        public static System.Drawing.Bitmap _039 {
             get {
                 object obj = ResourceManager.GetObject("_039", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -453,7 +473,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _040 {
+        public static System.Drawing.Bitmap _040 {
             get {
                 object obj = ResourceManager.GetObject("_040", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -463,7 +483,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _041 {
+        public static System.Drawing.Bitmap _041 {
             get {
                 object obj = ResourceManager.GetObject("_041", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -473,7 +493,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _042 {
+        public static System.Drawing.Bitmap _042 {
             get {
                 object obj = ResourceManager.GetObject("_042", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -483,7 +503,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _043 {
+        public static System.Drawing.Bitmap _043 {
             get {
                 object obj = ResourceManager.GetObject("_043", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -493,7 +513,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _044 {
+        public static System.Drawing.Bitmap _044 {
             get {
                 object obj = ResourceManager.GetObject("_044", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -503,7 +523,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _045 {
+        public static System.Drawing.Bitmap _045 {
             get {
                 object obj = ResourceManager.GetObject("_045", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -513,7 +533,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _046 {
+        public static System.Drawing.Bitmap _046 {
             get {
                 object obj = ResourceManager.GetObject("_046", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -523,7 +543,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _047 {
+        public static System.Drawing.Bitmap _047 {
             get {
                 object obj = ResourceManager.GetObject("_047", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -533,7 +553,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _048 {
+        public static System.Drawing.Bitmap _048 {
             get {
                 object obj = ResourceManager.GetObject("_048", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -543,7 +563,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _049 {
+        public static System.Drawing.Bitmap _049 {
             get {
                 object obj = ResourceManager.GetObject("_049", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -553,7 +573,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _050 {
+        public static System.Drawing.Bitmap _050 {
             get {
                 object obj = ResourceManager.GetObject("_050", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -563,7 +583,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _051 {
+        public static System.Drawing.Bitmap _051 {
             get {
                 object obj = ResourceManager.GetObject("_051", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -573,7 +593,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _052 {
+        public static System.Drawing.Bitmap _052 {
             get {
                 object obj = ResourceManager.GetObject("_052", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -583,7 +603,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _053 {
+        public static System.Drawing.Bitmap _053 {
             get {
                 object obj = ResourceManager.GetObject("_053", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -593,7 +613,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _054 {
+        public static System.Drawing.Bitmap _054 {
             get {
                 object obj = ResourceManager.GetObject("_054", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -603,7 +623,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _055 {
+        public static System.Drawing.Bitmap _055 {
             get {
                 object obj = ResourceManager.GetObject("_055", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -613,7 +633,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _056 {
+        public static System.Drawing.Bitmap _056 {
             get {
                 object obj = ResourceManager.GetObject("_056", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -623,7 +643,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _057 {
+        public static System.Drawing.Bitmap _057 {
             get {
                 object obj = ResourceManager.GetObject("_057", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -633,7 +653,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _058 {
+        public static System.Drawing.Bitmap _058 {
             get {
                 object obj = ResourceManager.GetObject("_058", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -643,7 +663,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _059 {
+        public static System.Drawing.Bitmap _059 {
             get {
                 object obj = ResourceManager.GetObject("_059", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -653,7 +673,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _060 {
+        public static System.Drawing.Bitmap _060 {
             get {
                 object obj = ResourceManager.GetObject("_060", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -663,7 +683,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _061 {
+        public static System.Drawing.Bitmap _061 {
             get {
                 object obj = ResourceManager.GetObject("_061", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -673,7 +693,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _062 {
+        public static System.Drawing.Bitmap _062 {
             get {
                 object obj = ResourceManager.GetObject("_062", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -683,7 +703,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _063 {
+        public static System.Drawing.Bitmap _063 {
             get {
                 object obj = ResourceManager.GetObject("_063", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -693,7 +713,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _064 {
+        public static System.Drawing.Bitmap _064 {
             get {
                 object obj = ResourceManager.GetObject("_064", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -703,7 +723,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _065 {
+        public static System.Drawing.Bitmap _065 {
             get {
                 object obj = ResourceManager.GetObject("_065", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -713,7 +733,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _066 {
+        public static System.Drawing.Bitmap _066 {
             get {
                 object obj = ResourceManager.GetObject("_066", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -723,7 +743,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _067 {
+        public static System.Drawing.Bitmap _067 {
             get {
                 object obj = ResourceManager.GetObject("_067", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -733,7 +753,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _068 {
+        public static System.Drawing.Bitmap _068 {
             get {
                 object obj = ResourceManager.GetObject("_068", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -743,7 +763,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _069 {
+        public static System.Drawing.Bitmap _069 {
             get {
                 object obj = ResourceManager.GetObject("_069", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -753,7 +773,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _070 {
+        public static System.Drawing.Bitmap _070 {
             get {
                 object obj = ResourceManager.GetObject("_070", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -763,7 +783,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _071 {
+        public static System.Drawing.Bitmap _071 {
             get {
                 object obj = ResourceManager.GetObject("_071", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -773,7 +793,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _072 {
+        public static System.Drawing.Bitmap _072 {
             get {
                 object obj = ResourceManager.GetObject("_072", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -783,7 +803,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _073 {
+        public static System.Drawing.Bitmap _073 {
             get {
                 object obj = ResourceManager.GetObject("_073", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -793,7 +813,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _074 {
+        public static System.Drawing.Bitmap _074 {
             get {
                 object obj = ResourceManager.GetObject("_074", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -803,7 +823,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _075 {
+        public static System.Drawing.Bitmap _075 {
             get {
                 object obj = ResourceManager.GetObject("_075", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -813,7 +833,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _076 {
+        public static System.Drawing.Bitmap _076 {
             get {
                 object obj = ResourceManager.GetObject("_076", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -823,7 +843,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _077 {
+        public static System.Drawing.Bitmap _077 {
             get {
                 object obj = ResourceManager.GetObject("_077", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -833,7 +853,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _078 {
+        public static System.Drawing.Bitmap _078 {
             get {
                 object obj = ResourceManager.GetObject("_078", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -843,7 +863,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _079 {
+        public static System.Drawing.Bitmap _079 {
             get {
                 object obj = ResourceManager.GetObject("_079", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -853,7 +873,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _080 {
+        public static System.Drawing.Bitmap _080 {
             get {
                 object obj = ResourceManager.GetObject("_080", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -863,7 +883,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _081 {
+        public static System.Drawing.Bitmap _081 {
             get {
                 object obj = ResourceManager.GetObject("_081", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -873,7 +893,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _082 {
+        public static System.Drawing.Bitmap _082 {
             get {
                 object obj = ResourceManager.GetObject("_082", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -883,7 +903,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _083 {
+        public static System.Drawing.Bitmap _083 {
             get {
                 object obj = ResourceManager.GetObject("_083", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -893,7 +913,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _084 {
+        public static System.Drawing.Bitmap _084 {
             get {
                 object obj = ResourceManager.GetObject("_084", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -903,7 +923,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _085 {
+        public static System.Drawing.Bitmap _085 {
             get {
                 object obj = ResourceManager.GetObject("_085", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -913,7 +933,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _086 {
+        public static System.Drawing.Bitmap _086 {
             get {
                 object obj = ResourceManager.GetObject("_086", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -923,7 +943,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _087 {
+        public static System.Drawing.Bitmap _087 {
             get {
                 object obj = ResourceManager.GetObject("_087", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -933,7 +953,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _088 {
+        public static System.Drawing.Bitmap _088 {
             get {
                 object obj = ResourceManager.GetObject("_088", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -943,7 +963,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _089 {
+        public static System.Drawing.Bitmap _089 {
             get {
                 object obj = ResourceManager.GetObject("_089", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -953,7 +973,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _090 {
+        public static System.Drawing.Bitmap _090 {
             get {
                 object obj = ResourceManager.GetObject("_090", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -963,7 +983,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _091 {
+        public static System.Drawing.Bitmap _091 {
             get {
                 object obj = ResourceManager.GetObject("_091", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -973,7 +993,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _092 {
+        public static System.Drawing.Bitmap _092 {
             get {
                 object obj = ResourceManager.GetObject("_092", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -983,7 +1003,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _093 {
+        public static System.Drawing.Bitmap _093 {
             get {
                 object obj = ResourceManager.GetObject("_093", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -993,7 +1013,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _094 {
+        public static System.Drawing.Bitmap _094 {
             get {
                 object obj = ResourceManager.GetObject("_094", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1003,7 +1023,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _095 {
+        public static System.Drawing.Bitmap _095 {
             get {
                 object obj = ResourceManager.GetObject("_095", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1013,7 +1033,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _096 {
+        public static System.Drawing.Bitmap _096 {
             get {
                 object obj = ResourceManager.GetObject("_096", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1023,7 +1043,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _097 {
+        public static System.Drawing.Bitmap _097 {
             get {
                 object obj = ResourceManager.GetObject("_097", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1033,7 +1053,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _098 {
+        public static System.Drawing.Bitmap _098 {
             get {
                 object obj = ResourceManager.GetObject("_098", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1043,7 +1063,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _099 {
+        public static System.Drawing.Bitmap _099 {
             get {
                 object obj = ResourceManager.GetObject("_099", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1053,7 +1073,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _100 {
+        public static System.Drawing.Bitmap _100 {
             get {
                 object obj = ResourceManager.GetObject("_100", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1063,7 +1083,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _101 {
+        public static System.Drawing.Bitmap _101 {
             get {
                 object obj = ResourceManager.GetObject("_101", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1073,7 +1093,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _102 {
+        public static System.Drawing.Bitmap _102 {
             get {
                 object obj = ResourceManager.GetObject("_102", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1083,7 +1103,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _103 {
+        public static System.Drawing.Bitmap _103 {
             get {
                 object obj = ResourceManager.GetObject("_103", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1093,7 +1113,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _104 {
+        public static System.Drawing.Bitmap _104 {
             get {
                 object obj = ResourceManager.GetObject("_104", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1103,7 +1123,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _105 {
+        public static System.Drawing.Bitmap _105 {
             get {
                 object obj = ResourceManager.GetObject("_105", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1113,7 +1133,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _106 {
+        public static System.Drawing.Bitmap _106 {
             get {
                 object obj = ResourceManager.GetObject("_106", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1123,7 +1143,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _107 {
+        public static System.Drawing.Bitmap _107 {
             get {
                 object obj = ResourceManager.GetObject("_107", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1133,7 +1153,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _108 {
+        public static System.Drawing.Bitmap _108 {
             get {
                 object obj = ResourceManager.GetObject("_108", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1143,7 +1163,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _109 {
+        public static System.Drawing.Bitmap _109 {
             get {
                 object obj = ResourceManager.GetObject("_109", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1153,7 +1173,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _110 {
+        public static System.Drawing.Bitmap _110 {
             get {
                 object obj = ResourceManager.GetObject("_110", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1163,7 +1183,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _111 {
+        public static System.Drawing.Bitmap _111 {
             get {
                 object obj = ResourceManager.GetObject("_111", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1173,7 +1193,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _112 {
+        public static System.Drawing.Bitmap _112 {
             get {
                 object obj = ResourceManager.GetObject("_112", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1183,7 +1203,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _113 {
+        public static System.Drawing.Bitmap _113 {
             get {
                 object obj = ResourceManager.GetObject("_113", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1193,7 +1213,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _114 {
+        public static System.Drawing.Bitmap _114 {
             get {
                 object obj = ResourceManager.GetObject("_114", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1203,7 +1223,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _115 {
+        public static System.Drawing.Bitmap _115 {
             get {
                 object obj = ResourceManager.GetObject("_115", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1213,7 +1233,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _116 {
+        public static System.Drawing.Bitmap _116 {
             get {
                 object obj = ResourceManager.GetObject("_116", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1223,7 +1243,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _117 {
+        public static System.Drawing.Bitmap _117 {
             get {
                 object obj = ResourceManager.GetObject("_117", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1233,7 +1253,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _118 {
+        public static System.Drawing.Bitmap _118 {
             get {
                 object obj = ResourceManager.GetObject("_118", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1243,7 +1263,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _119 {
+        public static System.Drawing.Bitmap _119 {
             get {
                 object obj = ResourceManager.GetObject("_119", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1253,7 +1273,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _120 {
+        public static System.Drawing.Bitmap _120 {
             get {
                 object obj = ResourceManager.GetObject("_120", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1263,7 +1283,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _121 {
+        public static System.Drawing.Bitmap _121 {
             get {
                 object obj = ResourceManager.GetObject("_121", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1273,7 +1293,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _122 {
+        public static System.Drawing.Bitmap _122 {
             get {
                 object obj = ResourceManager.GetObject("_122", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1283,7 +1303,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _123 {
+        public static System.Drawing.Bitmap _123 {
             get {
                 object obj = ResourceManager.GetObject("_123", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1293,7 +1313,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _124 {
+        public static System.Drawing.Bitmap _124 {
             get {
                 object obj = ResourceManager.GetObject("_124", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1303,7 +1323,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _125 {
+        public static System.Drawing.Bitmap _125 {
             get {
                 object obj = ResourceManager.GetObject("_125", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1313,7 +1333,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _126 {
+        public static System.Drawing.Bitmap _126 {
             get {
                 object obj = ResourceManager.GetObject("_126", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1323,7 +1343,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _127 {
+        public static System.Drawing.Bitmap _127 {
             get {
                 object obj = ResourceManager.GetObject("_127", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1333,7 +1353,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _128 {
+        public static System.Drawing.Bitmap _128 {
             get {
                 object obj = ResourceManager.GetObject("_128", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1343,7 +1363,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _129 {
+        public static System.Drawing.Bitmap _129 {
             get {
                 object obj = ResourceManager.GetObject("_129", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1353,7 +1373,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _130 {
+        public static System.Drawing.Bitmap _130 {
             get {
                 object obj = ResourceManager.GetObject("_130", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1363,7 +1383,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _131 {
+        public static System.Drawing.Bitmap _131 {
             get {
                 object obj = ResourceManager.GetObject("_131", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1373,7 +1393,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _132 {
+        public static System.Drawing.Bitmap _132 {
             get {
                 object obj = ResourceManager.GetObject("_132", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1383,7 +1403,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _133 {
+        public static System.Drawing.Bitmap _133 {
             get {
                 object obj = ResourceManager.GetObject("_133", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1393,7 +1413,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _134 {
+        public static System.Drawing.Bitmap _134 {
             get {
                 object obj = ResourceManager.GetObject("_134", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1403,7 +1423,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _135 {
+        public static System.Drawing.Bitmap _135 {
             get {
                 object obj = ResourceManager.GetObject("_135", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1413,7 +1433,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _136 {
+        public static System.Drawing.Bitmap _136 {
             get {
                 object obj = ResourceManager.GetObject("_136", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1423,7 +1443,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _137 {
+        public static System.Drawing.Bitmap _137 {
             get {
                 object obj = ResourceManager.GetObject("_137", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1433,7 +1453,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _138 {
+        public static System.Drawing.Bitmap _138 {
             get {
                 object obj = ResourceManager.GetObject("_138", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1443,7 +1463,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _139 {
+        public static System.Drawing.Bitmap _139 {
             get {
                 object obj = ResourceManager.GetObject("_139", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1453,7 +1473,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _140 {
+        public static System.Drawing.Bitmap _140 {
             get {
                 object obj = ResourceManager.GetObject("_140", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1463,7 +1483,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _141 {
+        public static System.Drawing.Bitmap _141 {
             get {
                 object obj = ResourceManager.GetObject("_141", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1473,7 +1493,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _142 {
+        public static System.Drawing.Bitmap _142 {
             get {
                 object obj = ResourceManager.GetObject("_142", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1483,7 +1503,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _143 {
+        public static System.Drawing.Bitmap _143 {
             get {
                 object obj = ResourceManager.GetObject("_143", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1493,7 +1513,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _144 {
+        public static System.Drawing.Bitmap _144 {
             get {
                 object obj = ResourceManager.GetObject("_144", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1503,7 +1523,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _145 {
+        public static System.Drawing.Bitmap _145 {
             get {
                 object obj = ResourceManager.GetObject("_145", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1513,7 +1533,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _146 {
+        public static System.Drawing.Bitmap _146 {
             get {
                 object obj = ResourceManager.GetObject("_146", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1523,7 +1543,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _147 {
+        public static System.Drawing.Bitmap _147 {
             get {
                 object obj = ResourceManager.GetObject("_147", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1533,7 +1553,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _148 {
+        public static System.Drawing.Bitmap _148 {
             get {
                 object obj = ResourceManager.GetObject("_148", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1543,7 +1563,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _149 {
+        public static System.Drawing.Bitmap _149 {
             get {
                 object obj = ResourceManager.GetObject("_149", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1553,7 +1573,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _150 {
+        public static System.Drawing.Bitmap _150 {
             get {
                 object obj = ResourceManager.GetObject("_150", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1563,7 +1583,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _151 {
+        public static System.Drawing.Bitmap _151 {
             get {
                 object obj = ResourceManager.GetObject("_151", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1573,9 +1593,9 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap No006 {
+        public static System.Drawing.Bitmap _18 {
             get {
-                object obj = ResourceManager.GetObject("No006", resourceCulture);
+                object obj = ResourceManager.GetObject("18", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1583,117 +1603,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap No010 {
-            get {
-                object obj = ResourceManager.GetObject("No010", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No012 {
-            get {
-                object obj = ResourceManager.GetObject("No012", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No018 {
-            get {
-                object obj = ResourceManager.GetObject("No018", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No021 {
-            get {
-                object obj = ResourceManager.GetObject("No021", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No027 {
-            get {
-                object obj = ResourceManager.GetObject("No027", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No052 {
-            get {
-                object obj = ResourceManager.GetObject("No052", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No053 {
-            get {
-                object obj = ResourceManager.GetObject("No053", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No094 {
-            get {
-                object obj = ResourceManager.GetObject("No094", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No131 {
-            get {
-                object obj = ResourceManager.GetObject("No131", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No135 {
-            get {
-                object obj = ResourceManager.GetObject("No135", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap No34 {
-            get {
-                object obj = ResourceManager.GetObject("No34", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
-        /// </summary>
-        internal static System.Drawing.Bitmap pokemon_ball_3Dart {
+        public static System.Drawing.Bitmap pokemon_ball_3Dart {
             get {
                 object obj = ResourceManager.GetObject("pokemon_ball_3Dart", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -1703,7 +1613,7 @@ namespace 訓練家管理系統.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap pokemonlogo {
+        public static System.Drawing.Bitmap pokemonlogo {
             get {
                 object obj = ResourceManager.GetObject("pokemonlogo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));

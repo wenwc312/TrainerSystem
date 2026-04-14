@@ -59,7 +59,7 @@ namespace 訓練家管理系統.MyControls.pokemonCard
             string resourceName = $"_{pNo}";
             object imageObj = Properties.Resources.ResourceManager.GetObject(resourceName);
 
-            if(imageObj != null)
+            if (imageObj != null)
             {
                 pictureBoxPokemon.Image = (Image)imageObj;
                 pictureBoxPokemon.SizeMode = PictureBoxSizeMode.Zoom;

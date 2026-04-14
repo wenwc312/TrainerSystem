@@ -118,8 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="_104" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\0104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\18.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_001" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -430,6 +430,9 @@
   <data name="_103" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0103.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0104.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_105" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0105.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -571,46 +574,16 @@
   <data name="_151" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\0151.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="No006" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No094" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\94.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No131" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="0131" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\131.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="No34" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\34.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No135" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="0135" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\135.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No018" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\18.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No021" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\21.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No027" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\27.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No010" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\10.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No012" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\12.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No052" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\52.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="No053" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\53.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pokemon_ball_3Dart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\—Pngtree—3d realistrc pokemon ball art_14754358.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pokemonlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pokemonlogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pokemon_ball_3Dart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\—Pngtree—3d realistrc pokemon ball art_14754358.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

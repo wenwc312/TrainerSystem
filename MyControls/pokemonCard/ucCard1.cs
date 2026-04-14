@@ -75,6 +75,7 @@ namespace 訓練家管理系統.MyControls.pokemonCard
 
             // 從 Resources 動態撈圖
             string resourceName = $"_{PokeNo}";
+            
             object imgObj = Properties.Resources.ResourceManager.GetObject(resourceName);
 
             if (imgObj != null)

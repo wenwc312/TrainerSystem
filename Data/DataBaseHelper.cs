@@ -18,7 +18,7 @@ namespace 訓練家管理系統.Data
         //string connString = @"Server=I30867\SQLEXPRESS;Database=PokemonDB;Integrated Security=True";
 
         // 修改連線字串格式 (SQLite 只需要路徑)
-        string connString = @"Data Source=PokemonDB.db;Version=3;";
+        string connString = @"Data Source=DataBase\PokemonDB.db;Version=3;";
 
         public List<T> Query<T> (string sql, Dictionary<string, object> parameters = null) where T : class, new()
         {

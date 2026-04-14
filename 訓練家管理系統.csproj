@@ -136,6 +136,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Services\MoveRepositores.cs" />
     <Compile Include="Services\PokemonRepositores.cs" />
     <Compile Include="Services\UserRepositores.cs" />
@@ -171,14 +176,10 @@
       <DependentUpon>ucWelcome.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include=".gitignore" />
     <None Include="bin\Debug\PokemonTest.application" />
     <None Include="bin\Debug\PokemonTest.exe.config" />
@@ -1216,6 +1217,1148 @@
     <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.2\THIRD-PARTY-NOTICES.TXT" />
     <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.2\useSharedDesignerContext.txt" />
     <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.2\version.txt" />
+    <Content Include="PokemonSprites\001.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\002.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\003.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\004.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\005.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\006.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\007.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\008.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\009.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\010.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\011.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\012.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\013.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\014.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\015.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\016.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\017.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\018.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\019.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\020.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\021.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\022.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\023.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\024.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\025.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\026.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\027.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\028.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\029.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\030.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\031.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\032.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\033.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\034.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\035.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\036.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\037.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\038.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\039.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\040.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\041.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\042.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\043.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\044.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\045.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\046.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\047.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\048.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\049.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\050.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\051.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\052.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\053.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\054.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\055.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\056.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\057.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\058.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\059.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\060.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\061.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\062.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\063.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\064.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\065.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\066.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\067.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\068.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\069.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\070.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\071.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\072.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\073.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\074.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\075.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\076.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\077.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\078.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\079.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\080.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\081.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\082.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\083.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\084.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\085.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\086.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\087.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\088.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\089.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\090.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\091.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\092.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\093.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\094.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\095.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\096.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\097.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\098.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\099.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\100.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\101.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\102.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\103.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\104.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\105.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\106.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\107.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\108.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\109.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\110.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\111.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\112.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\113.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\114.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\115.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\116.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\117.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\118.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\119.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\120.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\121.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\122.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\123.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\124.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\125.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\126.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\127.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\128.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\129.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\130.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\131.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\132.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\133.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\134.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\135.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\136.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\137.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\138.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\139.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\140.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\141.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\142.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\143.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\144.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\145.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\146.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\147.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\148.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\149.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\150.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonSprites\151.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PokemonWallpaper\abomasnow.jpg" />
+    <Content Include="PokemonWallpaper\abra.jpg" />
+    <Content Include="PokemonWallpaper\absol.jpg" />
+    <Content Include="PokemonWallpaper\accelgor.jpg" />
+    <Content Include="PokemonWallpaper\aerodactyl.jpg" />
+    <Content Include="PokemonWallpaper\aggron.jpg" />
+    <Content Include="PokemonWallpaper\aipom.jpg" />
+    <Content Include="PokemonWallpaper\alakazam.jpg" />
+    <Content Include="PokemonWallpaper\alomomola.jpg" />
+    <Content Include="PokemonWallpaper\altaria.jpg" />
+    <Content Include="PokemonWallpaper\ambipom.jpg" />
+    <Content Include="PokemonWallpaper\amoonguss.jpg" />
+    <Content Include="PokemonWallpaper\ampharos.jpg" />
+    <Content Include="PokemonWallpaper\anorith.jpg" />
+    <Content Include="PokemonWallpaper\arbok.jpg" />
+    <Content Include="PokemonWallpaper\arcanine.jpg" />
+    <Content Include="PokemonWallpaper\arceus.jpg" />
+    <Content Include="PokemonWallpaper\arceus_special.jpg" />
+    <Content Include="PokemonWallpaper\archen.jpg" />
+    <Content Include="PokemonWallpaper\archeops.jpg" />
+    <Content Include="PokemonWallpaper\ariados.jpg" />
+    <Content Include="PokemonWallpaper\armaldo.jpg" />
+    <Content Include="PokemonWallpaper\aron.jpg" />
+    <Content Include="PokemonWallpaper\articuno.jpg" />
+    <Content Include="PokemonWallpaper\audino.jpg" />
+    <Content Include="PokemonWallpaper\axew.jpg" />
+    <Content Include="PokemonWallpaper\azelf.jpg" />
+    <Content Include="PokemonWallpaper\azumarill.jpg" />
+    <Content Include="PokemonWallpaper\azurill.jpg" />
+    <Content Include="PokemonWallpaper\bagon.jpg" />
+    <Content Include="PokemonWallpaper\baltoy.jpg" />
+    <Content Include="PokemonWallpaper\banette.jpg" />
+    <Content Include="PokemonWallpaper\barboach.jpg" />
+    <Content Include="PokemonWallpaper\basculin-blue.jpg" />
+    <Content Include="PokemonWallpaper\basculin.jpg" />
+    <Content Include="PokemonWallpaper\bastiodon.jpg" />
+    <Content Include="PokemonWallpaper\bayleef.jpg" />
+    <Content Include="PokemonWallpaper\beartic.jpg" />
+    <Content Include="PokemonWallpaper\beautifly.jpg" />
+    <Content Include="PokemonWallpaper\beedrill.jpg" />
+    <Content Include="PokemonWallpaper\beheeyem.jpg" />
+    <Content Include="PokemonWallpaper\beldum.jpg" />
+    <Content Include="PokemonWallpaper\bellossom.jpg" />
+    <Content Include="PokemonWallpaper\bellsprout.jpg" />
+    <Content Include="PokemonWallpaper\bibarel.jpg" />
+    <Content Include="PokemonWallpaper\bidoof.jpg" />
+    <Content Include="PokemonWallpaper\bisharp.jpg" />
+    <Content Include="PokemonWallpaper\blastoise.jpg" />
+    <Content Include="PokemonWallpaper\blaziken.jpg" />
+    <Content Include="PokemonWallpaper\blissey.jpg" />
+    <Content Include="PokemonWallpaper\blitzle.jpg" />
+    <Content Include="PokemonWallpaper\boldore.jpg" />
+    <Content Include="PokemonWallpaper\bonsly.jpg" />
+    <Content Include="PokemonWallpaper\bouffalant.jpg" />
+    <Content Include="PokemonWallpaper\braviary.jpg" />
+    <Content Include="PokemonWallpaper\breloom.jpg" />
+    <Content Include="PokemonWallpaper\bronzong.jpg" />
+    <Content Include="PokemonWallpaper\bronzor.jpg" />
+    <Content Include="PokemonWallpaper\budew.jpg" />
+    <Content Include="PokemonWallpaper\buizel.jpg" />
+    <Content Include="PokemonWallpaper\bulbasaur.jpg" />
+    <Content Include="PokemonWallpaper\buneary.jpg" />
+    <Content Include="PokemonWallpaper\burmy-sandy.jpg" />
+    <Content Include="PokemonWallpaper\burmy-trash.jpg" />
+    <Content Include="PokemonWallpaper\burmy.jpg" />
+    <Content Include="PokemonWallpaper\butterfree.jpg" />
+    <Content Include="PokemonWallpaper\cacnea.jpg" />
+    <Content Include="PokemonWallpaper\cacturne.jpg" />
+    <Content Include="PokemonWallpaper\camerupt.jpg" />
+    <Content Include="PokemonWallpaper\carnivine.jpg" />
+    <Content Include="PokemonWallpaper\carracosta.jpg" />
+    <Content Include="PokemonWallpaper\carvannah.jpg" />
+    <Content Include="PokemonWallpaper\cascoon.jpg" />
+    <Content Include="PokemonWallpaper\castform-hail.jpg" />
+    <Content Include="PokemonWallpaper\castform-rain.jpg" />
+    <Content Include="PokemonWallpaper\castform-sun.jpg" />
+    <Content Include="PokemonWallpaper\castform.jpg" />
+    <Content Include="PokemonWallpaper\caterpie.jpg" />
+    <Content Include="PokemonWallpaper\celebi.jpg" />
+    <Content Include="PokemonWallpaper\chandelure.jpg" />
+    <Content Include="PokemonWallpaper\chansey.jpg" />
+    <Content Include="PokemonWallpaper\charizard.jpg" />
+    <Content Include="PokemonWallpaper\charmander.jpg" />
+    <Content Include="PokemonWallpaper\charmeleon.jpg" />
+    <Content Include="PokemonWallpaper\chatot.jpg" />
+    <Content Include="PokemonWallpaper\cherrim.jpg" />
+    <Content Include="PokemonWallpaper\cherubi.jpg" />
+    <Content Include="PokemonWallpaper\chikorita.jpg" />
+    <Content Include="PokemonWallpaper\chimchar.jpg" />
+    <Content Include="PokemonWallpaper\chimecho.jpg" />
+    <Content Include="PokemonWallpaper\chinchou.jpg" />
+    <Content Include="PokemonWallpaper\chingling.jpg" />
+    <Content Include="PokemonWallpaper\cinccino.jpg" />
+    <Content Include="PokemonWallpaper\clamperl.jpg" />
+    <Content Include="PokemonWallpaper\claydol.jpg" />
+    <Content Include="PokemonWallpaper\clefable.jpg" />
+    <Content Include="PokemonWallpaper\clefairy.jpg" />
+    <Content Include="PokemonWallpaper\cleffa.jpg" />
+    <Content Include="PokemonWallpaper\cloyster.jpg" />
+    <Content Include="PokemonWallpaper\cobalion.jpg" />
+    <Content Include="PokemonWallpaper\cofagrigus.jpg" />
+    <Content Include="PokemonWallpaper\combee.jpg" />
+    <Content Include="PokemonWallpaper\combusken.jpg" />
+    <Content Include="PokemonWallpaper\conkeldurr.jpg" />
+    <Content Include="PokemonWallpaper\corphish.jpg" />
+    <Content Include="PokemonWallpaper\corsola.jpg" />
+    <Content Include="PokemonWallpaper\cottonee.jpg" />
+    <Content Include="PokemonWallpaper\cradily.jpg" />
+    <Content Include="PokemonWallpaper\cranidos.jpg" />
+    <Content Include="PokemonWallpaper\crawdaunt.jpg" />
+    <Content Include="PokemonWallpaper\cresselia.jpg" />
+    <Content Include="PokemonWallpaper\croagunk.jpg" />
+    <Content Include="PokemonWallpaper\crobat.jpg" />
+    <Content Include="PokemonWallpaper\croconaw.jpg" />
+    <Content Include="PokemonWallpaper\crustle.jpg" />
+    <Content Include="PokemonWallpaper\cryogonal.jpg" />
+    <Content Include="PokemonWallpaper\cubchoo.jpg" />
+    <Content Include="PokemonWallpaper\cubone.jpg" />
+    <Content Include="PokemonWallpaper\cyndaquil.jpg" />
+    <Content Include="PokemonWallpaper\darkrai.jpg" />
+    <Content Include="PokemonWallpaper\darmanitan.jpg" />
+    <Content Include="PokemonWallpaper\darumaka.jpg" />
+    <Content Include="PokemonWallpaper\deerling-fall.jpg" />
+    <Content Include="PokemonWallpaper\deerling-summer.jpg" />
+    <Content Include="PokemonWallpaper\deerling-winter.jpg" />
+    <Content Include="PokemonWallpaper\deerling.jpg" />
+    <Content Include="PokemonWallpaper\deino.jpg" />
+    <Content Include="PokemonWallpaper\delcatty.jpg" />
+    <Content Include="PokemonWallpaper\delibird.jpg" />
+    <Content Include="PokemonWallpaper\deoxys-attack.jpg" />
+    <Content Include="PokemonWallpaper\deoxys-defense.jpg" />
+    <Content Include="PokemonWallpaper\deoxys-speed.jpg" />
+    <Content Include="PokemonWallpaper\deoxys.jpg" />
+    <Content Include="PokemonWallpaper\dewgong.jpg" />
+    <Content Include="PokemonWallpaper\dewott.jpg" />
+    <Content Include="PokemonWallpaper\dialga.jpg" />
+    <Content Include="PokemonWallpaper\diglett.jpg" />
+    <Content Include="PokemonWallpaper\ditto.jpg" />
+    <Content Include="PokemonWallpaper\dodrio.jpg" />
+    <Content Include="PokemonWallpaper\doduo.jpg" />
+    <Content Include="PokemonWallpaper\donphan.jpg" />
+    <Content Include="PokemonWallpaper\dragonair.jpg" />
+    <Content Include="PokemonWallpaper\dragonite.jpg" />
+    <Content Include="PokemonWallpaper\drapion.jpg" />
+    <Content Include="PokemonWallpaper\dratini.jpg" />
+    <Content Include="PokemonWallpaper\drifblim.jpg" />
+    <Content Include="PokemonWallpaper\drifloon.jpg" />
+    <Content Include="PokemonWallpaper\drilbur.jpg" />
+    <Content Include="PokemonWallpaper\drowzee.jpg" />
+    <Content Include="PokemonWallpaper\druddigon.jpg" />
+    <Content Include="PokemonWallpaper\ducklett.jpg" />
+    <Content Include="PokemonWallpaper\dugtrio.jpg" />
+    <Content Include="PokemonWallpaper\dunsparce.jpg" />
+    <Content Include="PokemonWallpaper\dunsparce_alt.jpg" />
+    <Content Include="PokemonWallpaper\duosion.jpg" />
+    <Content Include="PokemonWallpaper\durant.jpg" />
+    <Content Include="PokemonWallpaper\dusclops.jpg" />
+    <Content Include="PokemonWallpaper\dusknoir.jpg" />
+    <Content Include="PokemonWallpaper\duskull.jpg" />
+    <Content Include="PokemonWallpaper\dustox.jpg" />
+    <Content Include="PokemonWallpaper\dwebble.jpg" />
+    <Content Include="PokemonWallpaper\eevee.jpg" />
+    <Content Include="PokemonWallpaper\ekans.jpg" />
+    <Content Include="PokemonWallpaper\electabuzz.jpg" />
+    <Content Include="PokemonWallpaper\electivire.jpg" />
+    <Content Include="PokemonWallpaper\electrike.jpg" />
+    <Content Include="PokemonWallpaper\electrode.jpg" />
+    <Content Include="PokemonWallpaper\elekid.jpg" />
+    <Content Include="PokemonWallpaper\elektrik.jpg" />
+    <Content Include="PokemonWallpaper\elektross.jpg" />
+    <Content Include="PokemonWallpaper\elgyem.jpg" />
+    <Content Include="PokemonWallpaper\emboar.jpg" />
+    <Content Include="PokemonWallpaper\emolga.jpg" />
+    <Content Include="PokemonWallpaper\empoleon.jpg" />
+    <Content Include="PokemonWallpaper\entei.jpg" />
+    <Content Include="PokemonWallpaper\escavalier.jpg" />
+    <Content Include="PokemonWallpaper\espeon.jpg" />
+    <Content Include="PokemonWallpaper\excadrill.jpg" />
+    <Content Include="PokemonWallpaper\exeggcute.jpg" />
+    <Content Include="PokemonWallpaper\exeggutor.jpg" />
+    <Content Include="PokemonWallpaper\exploud.jpg" />
+    <Content Include="PokemonWallpaper\farfetchd.jpg" />
+    <Content Include="PokemonWallpaper\fearow.jpg" />
+    <Content Include="PokemonWallpaper\feebas.jpg" />
+    <Content Include="PokemonWallpaper\feraligatr.jpg" />
+    <Content Include="PokemonWallpaper\ferroseed.jpg" />
+    <Content Include="PokemonWallpaper\ferrothorn.jpg" />
+    <Content Include="PokemonWallpaper\finneon.jpg" />
+    <Content Include="PokemonWallpaper\flaaffy.jpg" />
+    <Content Include="PokemonWallpaper\flareon.jpg" />
+    <Content Include="PokemonWallpaper\floatzel.jpg" />
+    <Content Include="PokemonWallpaper\flygon.jpg" />
+    <Content Include="PokemonWallpaper\foongus.jpg" />
+    <Content Include="PokemonWallpaper\forretress.jpg" />
+    <Content Include="PokemonWallpaper\fraxure.jpg" />
+    <Content Include="PokemonWallpaper\frillish.jpg" />
+    <Content Include="PokemonWallpaper\froslass.jpg" />
+    <Content Include="PokemonWallpaper\furret.jpg" />
+    <Content Include="PokemonWallpaper\gabite.jpg" />
+    <Content Include="PokemonWallpaper\gallade.jpg" />
+    <Content Include="PokemonWallpaper\galvantula.jpg" />
+    <Content Include="PokemonWallpaper\garbodor.jpg" />
+    <Content Include="PokemonWallpaper\garchomp.jpg" />
+    <Content Include="PokemonWallpaper\gardevoir.jpg" />
+    <Content Include="PokemonWallpaper\gastly.jpg" />
+    <Content Include="PokemonWallpaper\gastrodon-west.jpg" />
+    <Content Include="PokemonWallpaper\gastrodon.jpg" />
+    <Content Include="PokemonWallpaper\genesect.png" />
+    <Content Include="PokemonWallpaper\gengar.jpg" />
+    <Content Include="PokemonWallpaper\geodude.jpg" />
+    <Content Include="PokemonWallpaper\gible.jpg" />
+    <Content Include="PokemonWallpaper\gigalith.jpg" />
+    <Content Include="PokemonWallpaper\girafarig.jpg" />
+    <Content Include="PokemonWallpaper\giratina-origin.jpg" />
+    <Content Include="PokemonWallpaper\giratina.jpg" />
+    <Content Include="PokemonWallpaper\glaceon.jpg" />
+    <Content Include="PokemonWallpaper\glalie.jpg" />
+    <Content Include="PokemonWallpaper\glameow.jpg" />
+    <Content Include="PokemonWallpaper\gligar.jpg" />
+    <Content Include="PokemonWallpaper\gliscor.jpg" />
+    <Content Include="PokemonWallpaper\gloom.jpg" />
+    <Content Include="PokemonWallpaper\golbat.jpg" />
+    <Content Include="PokemonWallpaper\goldeen.jpg" />
+    <Content Include="PokemonWallpaper\golduck.jpg" />
+    <Content Include="PokemonWallpaper\golem.jpg" />
+    <Content Include="PokemonWallpaper\golett.jpg" />
+    <Content Include="PokemonWallpaper\golurk.jpg" />
+    <Content Include="PokemonWallpaper\gorebyss.jpg" />
+    <Content Include="PokemonWallpaper\gothita.jpg" />
+    <Content Include="PokemonWallpaper\gothitelle.jpg" />
+    <Content Include="PokemonWallpaper\gothorita.jpg" />
+    <Content Include="PokemonWallpaper\granbull.jpg" />
+    <Content Include="PokemonWallpaper\graveler.jpg" />
+    <Content Include="PokemonWallpaper\grimer.jpg" />
+    <Content Include="PokemonWallpaper\grotle.jpg" />
+    <Content Include="PokemonWallpaper\groudon.jpg" />
+    <Content Include="PokemonWallpaper\groudon_normal.jpg" />
+    <Content Include="PokemonWallpaper\grovyle.jpg" />
+    <Content Include="PokemonWallpaper\growlithe.jpg" />
+    <Content Include="PokemonWallpaper\grumpig.jpg" />
+    <Content Include="PokemonWallpaper\gulpin.jpg" />
+    <Content Include="PokemonWallpaper\gurdurr.jpg" />
+    <Content Include="PokemonWallpaper\gyarados.jpg" />
+    <Content Include="PokemonWallpaper\happiny.jpg" />
+    <Content Include="PokemonWallpaper\hariyama.jpg" />
+    <Content Include="PokemonWallpaper\haunter.jpg" />
+    <Content Include="PokemonWallpaper\haxorus.jpg" />
+    <Content Include="PokemonWallpaper\heatmor.jpg" />
+    <Content Include="PokemonWallpaper\heatran.jpg" />
+    <Content Include="PokemonWallpaper\heracross.jpg" />
+    <Content Include="PokemonWallpaper\herdier.jpg" />
+    <Content Include="PokemonWallpaper\hippopotas.jpg" />
+    <Content Include="PokemonWallpaper\hippowdon.jpg" />
+    <Content Include="PokemonWallpaper\hitmonchan.jpg" />
+    <Content Include="PokemonWallpaper\hitmonlee.jpg" />
+    <Content Include="PokemonWallpaper\hitmontop.jpg" />
+    <Content Include="PokemonWallpaper\honchcrow.jpg" />
+    <Content Include="PokemonWallpaper\hooh.jpg" />
+    <Content Include="PokemonWallpaper\hoothoot.jpg" />
+    <Content Include="PokemonWallpaper\hoppip.jpg" />
+    <Content Include="PokemonWallpaper\horsea.jpg" />
+    <Content Include="PokemonWallpaper\houndoom.jpg" />
+    <Content Include="PokemonWallpaper\houndour.jpg" />
+    <Content Include="PokemonWallpaper\huntail.jpg" />
+    <Content Include="PokemonWallpaper\hydreigon.jpg" />
+    <Content Include="PokemonWallpaper\hypno.jpg" />
+    <Content Include="PokemonWallpaper\igglybuff.jpg" />
+    <Content Include="PokemonWallpaper\illumise.jpg" />
+    <Content Include="PokemonWallpaper\infernape.jpg" />
+    <Content Include="PokemonWallpaper\ivysaur.jpg" />
+    <Content Include="PokemonWallpaper\jellicent.jpg" />
+    <Content Include="PokemonWallpaper\jigglypuff.jpg" />
+    <Content Include="PokemonWallpaper\jirachi.jpg" />
+    <Content Include="PokemonWallpaper\jolteon.jpg" />
+    <Content Include="PokemonWallpaper\joltik.jpg" />
+    <Content Include="PokemonWallpaper\jumpluff.jpg" />
+    <Content Include="PokemonWallpaper\jynx.jpg" />
+    <Content Include="PokemonWallpaper\kabuto.jpg" />
+    <Content Include="PokemonWallpaper\kabutops.jpg" />
+    <Content Include="PokemonWallpaper\kadabra.jpg" />
+    <Content Include="PokemonWallpaper\kakuna.jpg" />
+    <Content Include="PokemonWallpaper\kangaskhan.jpg" />
+    <Content Include="PokemonWallpaper\karrablast.jpg" />
+    <Content Include="PokemonWallpaper\kecleon.jpg" />
+    <Content Include="PokemonWallpaper\keldeo-resolution.png" />
+    <Content Include="PokemonWallpaper\keldeo.jpg" />
+    <Content Include="PokemonWallpaper\keldeo.png" />
+    <Content Include="PokemonWallpaper\kingdra.jpg" />
+    <Content Include="PokemonWallpaper\kingler.jpg" />
+    <Content Include="PokemonWallpaper\kirlia.jpg" />
+    <Content Include="PokemonWallpaper\klang.jpg" />
+    <Content Include="PokemonWallpaper\klink.jpg" />
+    <Content Include="PokemonWallpaper\klinklang.jpg" />
+    <Content Include="PokemonWallpaper\koffing.jpg" />
+    <Content Include="PokemonWallpaper\krabby.jpg" />
+    <Content Include="PokemonWallpaper\kricketot.jpg" />
+    <Content Include="PokemonWallpaper\kricketune.jpg" />
+    <Content Include="PokemonWallpaper\krokorok.jpg" />
+    <Content Include="PokemonWallpaper\krookodile.jpg" />
+    <Content Include="PokemonWallpaper\kyogre.jpg" />
+    <Content Include="PokemonWallpaper\kyogre_normal.jpg" />
+    <Content Include="PokemonWallpaper\kyurem-electric.png" />
+    <Content Include="PokemonWallpaper\kyurem-fire.png" />
+    <Content Include="PokemonWallpaper\kyurem.jpg" />
+    <Content Include="PokemonWallpaper\lairon.jpg" />
+    <Content Include="PokemonWallpaper\lampent.jpg" />
+    <Content Include="PokemonWallpaper\landorus.jpg" />
+    <Content Include="PokemonWallpaper\landorus_sbforme.png" />
+    <Content Include="PokemonWallpaper\lanturn.jpg" />
+    <Content Include="PokemonWallpaper\lapras.jpg" />
+    <Content Include="PokemonWallpaper\larvesta.jpg" />
+    <Content Include="PokemonWallpaper\larvitar.jpg" />
+    <Content Include="PokemonWallpaper\latias.jpg" />
+    <Content Include="PokemonWallpaper\latios.jpg" />
+    <Content Include="PokemonWallpaper\leafeon.jpg" />
+    <Content Include="PokemonWallpaper\leavanny.jpg" />
+    <Content Include="PokemonWallpaper\ledian.jpg" />
+    <Content Include="PokemonWallpaper\ledyba.jpg" />
+    <Content Include="PokemonWallpaper\lickilicky.jpg" />
+    <Content Include="PokemonWallpaper\lickitung.jpg" />
+    <Content Include="PokemonWallpaper\liepard.jpg" />
+    <Content Include="PokemonWallpaper\lileep.jpg" />
+    <Content Include="PokemonWallpaper\lilligant.jpg" />
+    <Content Include="PokemonWallpaper\lillipup.jpg" />
+    <Content Include="PokemonWallpaper\linoone.jpg" />
+    <Content Include="PokemonWallpaper\litwick.jpg" />
+    <Content Include="PokemonWallpaper\lombre.jpg" />
+    <Content Include="PokemonWallpaper\lopunny.jpg" />
+    <Content Include="PokemonWallpaper\lotad.jpg" />
+    <Content Include="PokemonWallpaper\loudred.jpg" />
+    <Content Include="PokemonWallpaper\lucario.jpg" />
+    <Content Include="PokemonWallpaper\ludicolo.jpg" />
+    <Content Include="PokemonWallpaper\lugia.jpg" />
+    <Content Include="PokemonWallpaper\lumineon.jpg" />
+    <Content Include="PokemonWallpaper\lunatone.jpg" />
+    <Content Include="PokemonWallpaper\luvdisc.jpg" />
+    <Content Include="PokemonWallpaper\luxio.jpg" />
+    <Content Include="PokemonWallpaper\luxray.jpg" />
+    <Content Include="PokemonWallpaper\machamp.jpg" />
+    <Content Include="PokemonWallpaper\machoke.jpg" />
+    <Content Include="PokemonWallpaper\machop.jpg" />
+    <Content Include="PokemonWallpaper\magby.jpg" />
+    <Content Include="PokemonWallpaper\magcargo.jpg" />
+    <Content Include="PokemonWallpaper\magikarp.jpg" />
+    <Content Include="PokemonWallpaper\magmar.jpg" />
+    <Content Include="PokemonWallpaper\magmortar.jpg" />
+    <Content Include="PokemonWallpaper\magnemite.jpg" />
+    <Content Include="PokemonWallpaper\magneton.jpg" />
+    <Content Include="PokemonWallpaper\magnezone.jpg" />
+    <Content Include="PokemonWallpaper\makuhita.jpg" />
+    <Content Include="PokemonWallpaper\mamoswine.jpg" />
+    <Content Include="PokemonWallpaper\manaphy.jpg" />
+    <Content Include="PokemonWallpaper\mandibuzz.jpg" />
+    <Content Include="PokemonWallpaper\manectric.jpg" />
+    <Content Include="PokemonWallpaper\mankey.jpg" />
+    <Content Include="PokemonWallpaper\mantine.jpg" />
+    <Content Include="PokemonWallpaper\mantyke.jpg" />
+    <Content Include="PokemonWallpaper\maractus.jpg" />
+    <Content Include="PokemonWallpaper\mareep.jpg" />
+    <Content Include="PokemonWallpaper\marill.jpg" />
+    <Content Include="PokemonWallpaper\marowak.jpg" />
+    <Content Include="PokemonWallpaper\marshtomp.jpg" />
+    <Content Include="PokemonWallpaper\masquerain.jpg" />
+    <Content Include="PokemonWallpaper\mawile.jpg" />
+    <Content Include="PokemonWallpaper\medicham.jpg" />
+    <Content Include="PokemonWallpaper\meditite.jpg" />
+    <Content Include="PokemonWallpaper\meganium.jpg" />
+    <Content Include="PokemonWallpaper\meloetta-pirouette.png" />
+    <Content Include="PokemonWallpaper\meloetta.jpg" />
+    <Content Include="PokemonWallpaper\meowth.jpg" />
+    <Content Include="PokemonWallpaper\mesprit.jpg" />
+    <Content Include="PokemonWallpaper\metagross.jpg" />
+    <Content Include="PokemonWallpaper\metang.jpg" />
+    <Content Include="PokemonWallpaper\metapod.jpg" />
+    <Content Include="PokemonWallpaper\mew.jpg" />
+    <Content Include="PokemonWallpaper\mewtwo.jpg" />
+    <Content Include="PokemonWallpaper\mienfoo.jpg" />
+    <Content Include="PokemonWallpaper\mienshao.jpg" />
+    <Content Include="PokemonWallpaper\mightyena.jpg" />
+    <Content Include="PokemonWallpaper\milotic.jpg" />
+    <Content Include="PokemonWallpaper\miltank.jpg" />
+    <Content Include="PokemonWallpaper\mimejr.jpg" />
+    <Content Include="PokemonWallpaper\minccino.jpg" />
+    <Content Include="PokemonWallpaper\minun.jpg" />
+    <Content Include="PokemonWallpaper\misdreavus.jpg" />
+    <Content Include="PokemonWallpaper\mismagius.jpg" />
+    <Content Include="PokemonWallpaper\missingno.jpg" />
+    <Content Include="PokemonWallpaper\moltres.jpg" />
+    <Content Include="PokemonWallpaper\monferno.jpg" />
+    <Content Include="PokemonWallpaper\mothim.jpg" />
+    <Content Include="PokemonWallpaper\mrmime.jpg" />
+    <Content Include="PokemonWallpaper\mudkip.jpg" />
+    <Content Include="PokemonWallpaper\muk.jpg" />
+    <Content Include="PokemonWallpaper\munchlax.jpg" />
+    <Content Include="PokemonWallpaper\munna.jpg" />
+    <Content Include="PokemonWallpaper\murkrow.jpg" />
+    <Content Include="PokemonWallpaper\musharna.jpg" />
+    <Content Include="PokemonWallpaper\natu.jpg" />
+    <Content Include="PokemonWallpaper\nidoking.jpg" />
+    <Content Include="PokemonWallpaper\nidoqueen.jpg" />
+    <Content Include="PokemonWallpaper\nidoranf.jpg" />
+    <Content Include="PokemonWallpaper\nidoranm.jpg" />
+    <Content Include="PokemonWallpaper\nidorina.jpg" />
+    <Content Include="PokemonWallpaper\nidorino.jpg" />
+    <Content Include="PokemonWallpaper\nincada.jpg" />
+    <Content Include="PokemonWallpaper\ninetails.jpg" />
+    <Content Include="PokemonWallpaper\ninjask.jpg" />
+    <Content Include="PokemonWallpaper\noctowl.jpg" />
+    <Content Include="PokemonWallpaper\nosepass.jpg" />
+    <Content Include="PokemonWallpaper\numel.jpg" />
+    <Content Include="PokemonWallpaper\nuzleaf.jpg" />
+    <Content Include="PokemonWallpaper\octillery.jpg" />
+    <Content Include="PokemonWallpaper\oddish.jpg" />
+    <Content Include="PokemonWallpaper\omanyte.jpg" />
+    <Content Include="PokemonWallpaper\omastar.jpg" />
+    <Content Include="PokemonWallpaper\onix.jpg" />
+    <Content Include="PokemonWallpaper\oshawott.jpg" />
+    <Content Include="PokemonWallpaper\pachirisu.jpg" />
+    <Content Include="PokemonWallpaper\palkia.jpg" />
+    <Content Include="PokemonWallpaper\palpitoad.jpg" />
+    <Content Include="PokemonWallpaper\panpour.jpg" />
+    <Content Include="PokemonWallpaper\pansage.jpg" />
+    <Content Include="PokemonWallpaper\pansear.jpg" />
+    <Content Include="PokemonWallpaper\paras.jpg" />
+    <Content Include="PokemonWallpaper\parasect.jpg" />
+    <Content Include="PokemonWallpaper\patrat.jpg" />
+    <Content Include="PokemonWallpaper\pawniard.jpg" />
+    <Content Include="PokemonWallpaper\pelipper.jpg" />
+    <Content Include="PokemonWallpaper\persian.jpg" />
+    <Content Include="PokemonWallpaper\petilil.jpg" />
+    <Content Include="PokemonWallpaper\phanpy.jpg" />
+    <Content Include="PokemonWallpaper\phione.jpg" />
+    <Content Include="PokemonWallpaper\pichu.jpg" />
+    <Content Include="PokemonWallpaper\pidgeot.jpg" />
+    <Content Include="PokemonWallpaper\pidgeotto.jpg" />
+    <Content Include="PokemonWallpaper\pidgey.jpg" />
+    <Content Include="PokemonWallpaper\pidove.jpg" />
+    <Content Include="PokemonWallpaper\pignite.jpg" />
+    <Content Include="PokemonWallpaper\pikachu.jpg" />
+    <Content Include="PokemonWallpaper\piloswine.jpg" />
+    <Content Include="PokemonWallpaper\pineco.jpg" />
+    <Content Include="PokemonWallpaper\pinsir.jpg" />
+    <Content Include="PokemonWallpaper\piplup.jpg" />
+    <Content Include="PokemonWallpaper\plusle.jpg" />
+    <Content Include="PokemonWallpaper\politoed.jpg" />
+    <Content Include="PokemonWallpaper\poliwag.jpg" />
+    <Content Include="PokemonWallpaper\poliwhirl.jpg" />
+    <Content Include="PokemonWallpaper\poliwrath.jpg" />
+    <Content Include="PokemonWallpaper\ponyta.jpg" />
+    <Content Include="PokemonWallpaper\poochyena.jpg" />
+    <Content Include="PokemonWallpaper\porygon.jpg" />
+    <Content Include="PokemonWallpaper\porygon2.jpg" />
+    <Content Include="PokemonWallpaper\porygonz.jpg" />
+    <Content Include="PokemonWallpaper\primeape.jpg" />
+    <Content Include="PokemonWallpaper\prinplup.jpg" />
+    <Content Include="PokemonWallpaper\probopass.jpg" />
+    <Content Include="PokemonWallpaper\psyduck.jpg" />
+    <Content Include="PokemonWallpaper\pupitar.jpg" />
+    <Content Include="PokemonWallpaper\purrloin.jpg" />
+    <Content Include="PokemonWallpaper\purugly.jpg" />
+    <Content Include="PokemonWallpaper\quagsire.jpg" />
+    <Content Include="PokemonWallpaper\quilava.jpg" />
+    <Content Include="PokemonWallpaper\qwilfish.jpg" />
+    <Content Include="PokemonWallpaper\raichu.jpg" />
+    <Content Include="PokemonWallpaper\raikou.jpg" />
+    <Content Include="PokemonWallpaper\ralts.jpg" />
+    <Content Include="PokemonWallpaper\rampardos.jpg" />
+    <Content Include="PokemonWallpaper\rapidash.jpg" />
+    <Content Include="PokemonWallpaper\raticate.jpg" />
+    <Content Include="PokemonWallpaper\rattata.jpg" />
+    <Content Include="PokemonWallpaper\rayquaza.jpg" />
+    <Content Include="PokemonWallpaper\rayquaza_normal.jpg" />
+    <Content Include="PokemonWallpaper\regice.jpg" />
+    <Content Include="PokemonWallpaper\regigigas.jpg" />
+    <Content Include="PokemonWallpaper\regirock.jpg" />
+    <Content Include="PokemonWallpaper\registeel.jpg" />
+    <Content Include="PokemonWallpaper\relicanth.jpg" />
+    <Content Include="PokemonWallpaper\remoraid.jpg" />
+    <Content Include="PokemonWallpaper\reshiram.jpg" />
+    <Content Include="PokemonWallpaper\reuniclus.jpg" />
+    <Content Include="PokemonWallpaper\rhydon.jpg" />
+    <Content Include="PokemonWallpaper\rhyhorn.jpg" />
+    <Content Include="PokemonWallpaper\rhypherior.jpg" />
+    <Content Include="PokemonWallpaper\riolu.jpg" />
+    <Content Include="PokemonWallpaper\roggenrola.jpg" />
+    <Content Include="PokemonWallpaper\roselia.jpg" />
+    <Content Include="PokemonWallpaper\roserade.jpg" />
+    <Content Include="PokemonWallpaper\rotom-fan.jpg" />
+    <Content Include="PokemonWallpaper\rotom-frost.jpg" />
+    <Content Include="PokemonWallpaper\rotom-heat.jpg" />
+    <Content Include="PokemonWallpaper\rotom-mow.jpg" />
+    <Content Include="PokemonWallpaper\rotom-wash.jpg" />
+    <Content Include="PokemonWallpaper\rotom.jpg" />
+    <Content Include="PokemonWallpaper\rufflet.jpg" />
+    <Content Include="PokemonWallpaper\sableye.jpg" />
+    <Content Include="PokemonWallpaper\salamence.jpg" />
+    <Content Include="PokemonWallpaper\samurott.jpg" />
+    <Content Include="PokemonWallpaper\sandile.jpg" />
+    <Content Include="PokemonWallpaper\sandshrew.jpg" />
+    <Content Include="PokemonWallpaper\sandslash.jpg" />
+    <Content Include="PokemonWallpaper\sawk.jpg" />
+    <Content Include="PokemonWallpaper\sawsbuck-fall.jpg" />
+    <Content Include="PokemonWallpaper\sawsbuck-summer.jpg" />
+    <Content Include="PokemonWallpaper\sawsbuck-winter.jpg" />
+    <Content Include="PokemonWallpaper\sawsbuck.jpg" />
+    <Content Include="PokemonWallpaper\sceptile.jpg" />
+    <Content Include="PokemonWallpaper\scizor.jpg" />
+    <Content Include="PokemonWallpaper\scolipede.jpg" />
+    <Content Include="PokemonWallpaper\scrafty.jpg" />
+    <Content Include="PokemonWallpaper\scraggy.jpg" />
+    <Content Include="PokemonWallpaper\scyther.jpg" />
+    <Content Include="PokemonWallpaper\seadra.jpg" />
+    <Content Include="PokemonWallpaper\seaking.jpg" />
+    <Content Include="PokemonWallpaper\sealeo.jpg" />
+    <Content Include="PokemonWallpaper\seedot.jpg" />
+    <Content Include="PokemonWallpaper\seel.jpg" />
+    <Content Include="PokemonWallpaper\seismitoad.jpg" />
+    <Content Include="PokemonWallpaper\sentret.jpg" />
+    <Content Include="PokemonWallpaper\serperior.jpg" />
+    <Content Include="PokemonWallpaper\servine.jpg" />
+    <Content Include="PokemonWallpaper\seviper.jpg" />
+    <Content Include="PokemonWallpaper\sewaddle.jpg" />
+    <Content Include="PokemonWallpaper\sharpedo.jpg" />
+    <Content Include="PokemonWallpaper\shaymin-sky.jpg" />
+    <Content Include="PokemonWallpaper\shaymin.jpg" />
+    <Content Include="PokemonWallpaper\shedinja.jpg" />
+    <Content Include="PokemonWallpaper\shelgon.jpg" />
+    <Content Include="PokemonWallpaper\shellder.jpg" />
+    <Content Include="PokemonWallpaper\shellos-west.jpg" />
+    <Content Include="PokemonWallpaper\shellos.jpg" />
+    <Content Include="PokemonWallpaper\shelmet.jpg" />
+    <Content Include="PokemonWallpaper\shieldon.jpg" />
+    <Content Include="PokemonWallpaper\shiftry.jpg" />
+    <Content Include="PokemonWallpaper\shinx.jpg" />
+    <Content Include="PokemonWallpaper\shroomish.jpg" />
+    <Content Include="PokemonWallpaper\shuckle.jpg" />
+    <Content Include="PokemonWallpaper\shuppet.jpg" />
+    <Content Include="PokemonWallpaper\sigilyph.jpg" />
+    <Content Include="PokemonWallpaper\silcoon.jpg" />
+    <Content Include="PokemonWallpaper\simipour.jpg" />
+    <Content Include="PokemonWallpaper\simisage.jpg" />
+    <Content Include="PokemonWallpaper\simisear.jpg" />
+    <Content Include="PokemonWallpaper\skarmory.jpg" />
+    <Content Include="PokemonWallpaper\skiploom.jpg" />
+    <Content Include="PokemonWallpaper\skitty.jpg" />
+    <Content Include="PokemonWallpaper\skorupi.jpg" />
+    <Content Include="PokemonWallpaper\skuntank.jpg" />
+    <Content Include="PokemonWallpaper\slaking.jpg" />
+    <Content Include="PokemonWallpaper\slakoth.jpg" />
+    <Content Include="PokemonWallpaper\slowbro.jpg" />
+    <Content Include="PokemonWallpaper\slowking.jpg" />
+    <Content Include="PokemonWallpaper\slowpoke.jpg" />
+    <Content Include="PokemonWallpaper\slugma.jpg" />
+    <Content Include="PokemonWallpaper\smeargle.jpg" />
+    <Content Include="PokemonWallpaper\smoochum.jpg" />
+    <Content Include="PokemonWallpaper\sneasel.jpg" />
+    <Content Include="PokemonWallpaper\snivy.jpg" />
+    <Content Include="PokemonWallpaper\snorlax.jpg" />
+    <Content Include="PokemonWallpaper\snorunt.jpg" />
+    <Content Include="PokemonWallpaper\snover.jpg" />
+    <Content Include="PokemonWallpaper\snubbull.jpg" />
+    <Content Include="PokemonWallpaper\solosis.jpg" />
+    <Content Include="PokemonWallpaper\solrock.jpg" />
+    <Content Include="PokemonWallpaper\spearow.jpg" />
+    <Content Include="PokemonWallpaper\spheal.jpg" />
+    <Content Include="PokemonWallpaper\spinarak.jpg" />
+    <Content Include="PokemonWallpaper\spinda.jpg" />
+    <Content Include="PokemonWallpaper\spiritomb.jpg" />
+    <Content Include="PokemonWallpaper\spoink.jpg" />
+    <Content Include="PokemonWallpaper\squirtle.jpg" />
+    <Content Include="PokemonWallpaper\stantler.jpg" />
+    <Content Include="PokemonWallpaper\staraptor.jpg" />
+    <Content Include="PokemonWallpaper\staravia.jpg" />
+    <Content Include="PokemonWallpaper\starly.jpg" />
+    <Content Include="PokemonWallpaper\starmie.jpg" />
+    <Content Include="PokemonWallpaper\staryu.jpg" />
+    <Content Include="PokemonWallpaper\steelix.jpg" />
+    <Content Include="PokemonWallpaper\stoutland.jpg" />
+    <Content Include="PokemonWallpaper\stunfisk.jpg" />
+    <Content Include="PokemonWallpaper\stunky.jpg" />
+    <Content Include="PokemonWallpaper\sudowoodo.jpg" />
+    <Content Include="PokemonWallpaper\suicune.jpg" />
+    <Content Include="PokemonWallpaper\sunflora.jpg" />
+    <Content Include="PokemonWallpaper\sunkern.jpg" />
+    <Content Include="PokemonWallpaper\surskit.jpg" />
+    <Content Include="PokemonWallpaper\swablu.jpg" />
+    <Content Include="PokemonWallpaper\swadloon.jpg" />
+    <Content Include="PokemonWallpaper\swalot.jpg" />
+    <Content Include="PokemonWallpaper\swampert.jpg" />
+    <Content Include="PokemonWallpaper\swanna.jpg" />
+    <Content Include="PokemonWallpaper\swellow.jpg" />
+    <Content Include="PokemonWallpaper\swinub.jpg" />
+    <Content Include="PokemonWallpaper\swoobat.jpg" />
+    <Content Include="PokemonWallpaper\taillow.jpg" />
+    <Content Include="PokemonWallpaper\tangela.jpg" />
+    <Content Include="PokemonWallpaper\tangrowth.jpg" />
+    <Content Include="PokemonWallpaper\tauros.jpg" />
+    <Content Include="PokemonWallpaper\teddiursa.jpg" />
+    <Content Include="PokemonWallpaper\tentacool.jpg" />
+    <Content Include="PokemonWallpaper\tentacruel.jpg" />
+    <Content Include="PokemonWallpaper\tepig.jpg" />
+    <Content Include="PokemonWallpaper\terrakion.jpg" />
+    <Content Include="PokemonWallpaper\throh.jpg" />
+    <Content Include="PokemonWallpaper\thundurus.jpg" />
+    <Content Include="PokemonWallpaper\thundurus_sbforme.png" />
+    <Content Include="PokemonWallpaper\timburr.jpg" />
+    <Content Include="PokemonWallpaper\tirtouga.jpg" />
+    <Content Include="PokemonWallpaper\togekiss.jpg" />
+    <Content Include="PokemonWallpaper\togepi.jpg" />
+    <Content Include="PokemonWallpaper\togetic.jpg" />
+    <Content Include="PokemonWallpaper\torchic.jpg" />
+    <Content Include="PokemonWallpaper\torkoal.jpg" />
+    <Content Include="PokemonWallpaper\tornadus.jpg" />
+    <Content Include="PokemonWallpaper\tornadus_sbforme.png" />
+    <Content Include="PokemonWallpaper\torterra.jpg" />
+    <Content Include="PokemonWallpaper\totodile.jpg" />
+    <Content Include="PokemonWallpaper\toxicroak.jpg" />
+    <Content Include="PokemonWallpaper\tranquill.jpg" />
+    <Content Include="PokemonWallpaper\trapinch.jpg" />
+    <Content Include="PokemonWallpaper\treecko.jpg" />
+    <Content Include="PokemonWallpaper\tropius.jpg" />
+    <Content Include="PokemonWallpaper\trubbish.jpg" />
+    <Content Include="PokemonWallpaper\turtwig.jpg" />
+    <Content Include="PokemonWallpaper\tympole.jpg" />
+    <Content Include="PokemonWallpaper\tynamo.jpg" />
+    <Content Include="PokemonWallpaper\typhlosion.jpg" />
+    <Content Include="PokemonWallpaper\tyranitar.jpg" />
+    <Content Include="PokemonWallpaper\tyrogue.jpg" />
+    <Content Include="PokemonWallpaper\umbreon.jpg" />
+    <Content Include="PokemonWallpaper\unfezant.jpg" />
+    <Content Include="PokemonWallpaper\unown.jpg" />
+    <Content Include="PokemonWallpaper\ursaring.jpg" />
+    <Content Include="PokemonWallpaper\uxie.jpg" />
+    <Content Include="PokemonWallpaper\vanillish.jpg" />
+    <Content Include="PokemonWallpaper\vanillite.jpg" />
+    <Content Include="PokemonWallpaper\vanilluxe.jpg" />
+    <Content Include="PokemonWallpaper\vaporeon.jpg" />
+    <Content Include="PokemonWallpaper\venipede.jpg" />
+    <Content Include="PokemonWallpaper\venomoth.jpg" />
+    <Content Include="PokemonWallpaper\venonat.jpg" />
+    <Content Include="PokemonWallpaper\venusaur.jpg" />
+    <Content Include="PokemonWallpaper\vespiquen.jpg" />
+    <Content Include="PokemonWallpaper\vibrava.jpg" />
+    <Content Include="PokemonWallpaper\victini.jpg" />
+    <Content Include="PokemonWallpaper\victreebel.jpg" />
+    <Content Include="PokemonWallpaper\vigoroth.jpg" />
+    <Content Include="PokemonWallpaper\vileplume.jpg" />
+    <Content Include="PokemonWallpaper\virizion.jpg" />
+    <Content Include="PokemonWallpaper\volbeat.jpg" />
+    <Content Include="PokemonWallpaper\volcarona.jpg" />
+    <Content Include="PokemonWallpaper\voltorb.jpg" />
+    <Content Include="PokemonWallpaper\vullaby.jpg" />
+    <Content Include="PokemonWallpaper\vulpix.jpg" />
+    <Content Include="PokemonWallpaper\wailmer.jpg" />
+    <Content Include="PokemonWallpaper\wailord.jpg" />
+    <Content Include="PokemonWallpaper\walrein.jpg" />
+    <Content Include="PokemonWallpaper\wartortle.jpg" />
+    <Content Include="PokemonWallpaper\watchog.jpg" />
+    <Content Include="PokemonWallpaper\weavile.jpg" />
+    <Content Include="PokemonWallpaper\weedle.jpg" />
+    <Content Include="PokemonWallpaper\weepinbell.jpg" />
+    <Content Include="PokemonWallpaper\weezing.jpg" />
+    <Content Include="PokemonWallpaper\whimsicott.jpg" />
+    <Content Include="PokemonWallpaper\whirlipede.jpg" />
+    <Content Include="PokemonWallpaper\whiscash.jpg" />
+    <Content Include="PokemonWallpaper\whismur.jpg" />
+    <Content Include="PokemonWallpaper\wigglytuff.jpg" />
+    <Content Include="PokemonWallpaper\wingull.jpg" />
+    <Content Include="PokemonWallpaper\wobbufett.jpg" />
+    <Content Include="PokemonWallpaper\woobat.jpg" />
+    <Content Include="PokemonWallpaper\wooper.jpg" />
+    <Content Include="PokemonWallpaper\wormadam-sandy.jpg" />
+    <Content Include="PokemonWallpaper\wormadam-trash.jpg" />
+    <Content Include="PokemonWallpaper\wormadam.jpg" />
+    <Content Include="PokemonWallpaper\wurmple.jpg" />
+    <Content Include="PokemonWallpaper\wynaut.jpg" />
+    <Content Include="PokemonWallpaper\xatu.jpg" />
+    <Content Include="PokemonWallpaper\yamask.jpg" />
+    <Content Include="PokemonWallpaper\yanma.jpg" />
+    <Content Include="PokemonWallpaper\yanmega.jpg" />
+    <Content Include="PokemonWallpaper\zangoose.jpg" />
+    <Content Include="PokemonWallpaper\zapdos.jpg" />
+    <Content Include="PokemonWallpaper\zebstrika.jpg" />
+    <Content Include="PokemonWallpaper\zekrom.jpg" />
+    <Content Include="PokemonWallpaper\zigzagoon.jpg" />
+    <Content Include="PokemonWallpaper\zoroark.jpg" />
+    <Content Include="PokemonWallpaper\zorua.jpg" />
+    <Content Include="PokemonWallpaper\zubat.jpg" />
+    <Content Include="PokemonWallpaper\zweilous.jpg" />
     <Content Include="Resources\0001.png" />
     <Content Include="Resources\0002.png" />
     <Content Include="Resources\0003.png" />
@@ -1367,18 +2510,158 @@
     <Content Include="Resources\0149.png" />
     <Content Include="Resources\0150.png" />
     <Content Include="Resources\0151.png" />
-    <Content Include="Resources\10.gif" />
-    <Content Include="Resources\12.gif" />
-    <Content Include="Resources\131.gif" />
-    <Content Include="Resources\135.gif" />
-    <Content Include="Resources\18.gif" />
-    <Content Include="Resources\21.gif" />
-    <Content Include="Resources\27.gif" />
-    <Content Include="Resources\34.gif" />
-    <Content Include="Resources\52.gif" />
-    <Content Include="Resources\53.gif" />
-    <Content Include="Resources\6.gif" />
-    <Content Include="Resources\94.gif" />
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\10.png" />
+    <Content Include="Resources\100.png" />
+    <Content Include="Resources\101.png" />
+    <Content Include="Resources\102.png" />
+    <Content Include="Resources\103.png" />
+    <Content Include="Resources\104.png" />
+    <Content Include="Resources\105.png" />
+    <Content Include="Resources\106.png" />
+    <Content Include="Resources\107.png" />
+    <Content Include="Resources\108.png" />
+    <Content Include="Resources\109.png" />
+    <Content Include="Resources\11.png" />
+    <Content Include="Resources\110.png" />
+    <Content Include="Resources\111.png" />
+    <Content Include="Resources\112.png" />
+    <Content Include="Resources\113.png" />
+    <Content Include="Resources\114.png" />
+    <Content Include="Resources\115.png" />
+    <Content Include="Resources\116.png" />
+    <Content Include="Resources\117.png" />
+    <Content Include="Resources\118.png" />
+    <Content Include="Resources\119.png" />
+    <Content Include="Resources\12.png" />
+    <Content Include="Resources\120.png" />
+    <Content Include="Resources\121.png" />
+    <Content Include="Resources\122.png" />
+    <Content Include="Resources\123.png" />
+    <Content Include="Resources\124.png" />
+    <Content Include="Resources\125.png" />
+    <Content Include="Resources\126.png" />
+    <Content Include="Resources\127.png" />
+    <Content Include="Resources\128.png" />
+    <Content Include="Resources\129.png" />
+    <Content Include="Resources\13.png" />
+    <Content Include="Resources\130.png" />
+    <Content Include="Resources\131.png" />
+    <Content Include="Resources\132.png" />
+    <Content Include="Resources\133.png" />
+    <Content Include="Resources\134.png" />
+    <Content Include="Resources\135.png" />
+    <Content Include="Resources\136.png" />
+    <Content Include="Resources\137.png" />
+    <Content Include="Resources\138.png" />
+    <Content Include="Resources\139.png" />
+    <Content Include="Resources\14.png" />
+    <Content Include="Resources\140.png" />
+    <Content Include="Resources\141.png" />
+    <Content Include="Resources\142.png" />
+    <Content Include="Resources\143.png" />
+    <Content Include="Resources\144.png" />
+    <Content Include="Resources\145.png" />
+    <Content Include="Resources\146.png" />
+    <Content Include="Resources\147.png" />
+    <Content Include="Resources\148.png" />
+    <Content Include="Resources\149.png" />
+    <Content Include="Resources\15.png" />
+    <Content Include="Resources\150.png" />
+    <Content Include="Resources\151.png" />
+    <Content Include="Resources\16.png" />
+    <Content Include="Resources\17.png" />
+    <Content Include="Resources\18.png" />
+    <Content Include="Resources\19.png" />
+    <Content Include="Resources\2.png" />
+    <Content Include="Resources\20.png" />
+    <Content Include="Resources\21.png" />
+    <Content Include="Resources\22.png" />
+    <Content Include="Resources\23.png" />
+    <Content Include="Resources\24.png" />
+    <Content Include="Resources\25.png" />
+    <Content Include="Resources\26.png" />
+    <Content Include="Resources\27.png" />
+    <Content Include="Resources\28.png" />
+    <Content Include="Resources\29.png" />
+    <Content Include="Resources\3.png" />
+    <Content Include="Resources\30.png" />
+    <Content Include="Resources\31.png" />
+    <Content Include="Resources\32.png" />
+    <Content Include="Resources\33.png" />
+    <Content Include="Resources\34.png" />
+    <Content Include="Resources\35.png" />
+    <Content Include="Resources\36.png" />
+    <Content Include="Resources\37.png" />
+    <Content Include="Resources\38.png" />
+    <Content Include="Resources\39.png" />
+    <Content Include="Resources\4.png" />
+    <Content Include="Resources\40.png" />
+    <Content Include="Resources\41.png" />
+    <Content Include="Resources\42.png" />
+    <Content Include="Resources\43.png" />
+    <Content Include="Resources\44.png" />
+    <Content Include="Resources\45.png" />
+    <Content Include="Resources\46.png" />
+    <Content Include="Resources\47.png" />
+    <Content Include="Resources\48.png" />
+    <Content Include="Resources\49.png" />
+    <Content Include="Resources\5.png" />
+    <Content Include="Resources\50.png" />
+    <Content Include="Resources\51.png" />
+    <Content Include="Resources\52.png" />
+    <Content Include="Resources\53.png" />
+    <Content Include="Resources\54.png" />
+    <Content Include="Resources\55.png" />
+    <Content Include="Resources\56.png" />
+    <Content Include="Resources\57.png" />
+    <Content Include="Resources\58.png" />
+    <Content Include="Resources\59.png" />
+    <Content Include="Resources\6.png" />
+    <Content Include="Resources\60.png" />
+    <Content Include="Resources\61.png" />
+    <Content Include="Resources\62.png" />
+    <Content Include="Resources\63.png" />
+    <Content Include="Resources\64.png" />
+    <Content Include="Resources\65.png" />
+    <Content Include="Resources\66.png" />
+    <Content Include="Resources\67.png" />
+    <Content Include="Resources\68.png" />
+    <Content Include="Resources\69.png" />
+    <Content Include="Resources\7.png" />
+    <Content Include="Resources\70.png" />
+    <Content Include="Resources\71.png" />
+    <Content Include="Resources\72.png" />
+    <Content Include="Resources\73.png" />
+    <Content Include="Resources\74.png" />
+    <Content Include="Resources\75.png" />
+    <Content Include="Resources\76.png" />
+    <Content Include="Resources\77.png" />
+    <Content Include="Resources\78.png" />
+    <Content Include="Resources\79.png" />
+    <Content Include="Resources\8.png" />
+    <Content Include="Resources\80.png" />
+    <Content Include="Resources\81.png" />
+    <Content Include="Resources\82.png" />
+    <Content Include="Resources\83.png" />
+    <Content Include="Resources\84.png" />
+    <Content Include="Resources\85.png" />
+    <Content Include="Resources\86.png" />
+    <Content Include="Resources\87.png" />
+    <Content Include="Resources\88.png" />
+    <Content Include="Resources\89.png" />
+    <Content Include="Resources\8redelul5udl2kj5iuqrld8ukt-0d34a4239a497a0dd4cd8119d42ec20e.png" />
+    <Content Include="Resources\9.png" />
+    <Content Include="Resources\90.png" />
+    <Content Include="Resources\91.png" />
+    <Content Include="Resources\92.png" />
+    <Content Include="Resources\93.png" />
+    <Content Include="Resources\94.png" />
+    <Content Include="Resources\95.png" />
+    <Content Include="Resources\96.png" />
+    <Content Include="Resources\97.png" />
+    <Content Include="Resources\98.png" />
+    <Content Include="Resources\99.png" />
     <Content Include="Resources\pokemonlogo.png" />
     <Content Include="Resources\—Pngtree—3d realistrc pokemon ball art_14754358.png" />
   </ItemGroup>

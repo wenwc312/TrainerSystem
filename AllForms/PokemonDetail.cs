@@ -211,7 +211,9 @@ namespace 訓練家管理系統.AllForms
 
                 // 從外部資料夾撈資料
                 // 💥 1. 取得程式執行目錄下的 PokemonSprites 資料夾路徑
-                string folderPath = Path.Combine(Application.StartupPath, "PokemonSprites");
+                //string folderPath = Path.Combine(Application.StartupPath, "PokemonSprites");
+                // 這樣寫最穩，不管是在 Debug 還是 Release 執行都抓得到
+                string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "PokemonSprites");
 
                 // 💥 2. 組合出這隻寶可夢圖片的完整路徑 (例如: C:\...\bin\Debug\PokemonSprites\006.gif)
                 string filePath = Path.Combine(folderPath, $"{txtNo.Text}.gif");
